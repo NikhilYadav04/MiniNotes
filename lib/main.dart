@@ -33,6 +33,7 @@ class _MyAppState extends State<MyApp> {
         "intro1":(context)=>Intropage1(),
         "intro2":(context)=>Intropage2(),
         "home":(context)=>Home(),
+        
       },
     );
   }
